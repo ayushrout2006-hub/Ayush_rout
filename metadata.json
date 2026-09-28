@@ -1,0 +1,6 @@
+{
+  "name": "JalDrishti - Flash Flood Early Warning System",
+  "description": "Hyper-local flash flood and debris flow prediction platform for hilly regions integrating multi-source rainfall radar, IoT soil telemetry, slope stability models, and machine learning training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
